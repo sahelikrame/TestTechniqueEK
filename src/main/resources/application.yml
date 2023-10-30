@@ -1,0 +1,4 @@
+billing:
+  history:
+    max-size: 20;
+  #max-size: ${BILLING_HISTORY_MAX_SIZE}
